@@ -1,2 +1,3 @@
 # python-utils
-# My Project
+
+A collection of Python utility functions and scripts.
