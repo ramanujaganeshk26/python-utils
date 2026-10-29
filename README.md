@@ -6,6 +6,15 @@ A collection of Python utility functions and scripts.
 
 `python-utils` provides reusable Python helper modules for common operations such as timing, file handling, string manipulation, and logging.
 
+## Installation
+
+Clone the repository and add it to your project or Python path:
+
+```bash
+git clone https://github.com/ramanujaganeshk26/python-utils.git
+cd python-utils
+```
+
 ## Quick Start
 
 ```python
